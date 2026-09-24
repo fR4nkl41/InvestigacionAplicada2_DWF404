@@ -383,8 +383,8 @@ minikube start
 
 ## Autores
 
-- Alberto Guido, Christopher Adiel
-- Flores Pérez, Rodrigo Adrián
-- Mazariego Artega, Francisco Manuel
+- Alberto Guido, Christopher Adiel — AG252960
+- Flores Pérez, Rodrigo Adrián — FP253000
+- Mazariego Arteaga, Francisco Manuel — MA252948
 
 **Universidad Don Bosco — Desarrollo de Aplicaciones con Web Frameworks (DWF404)**
